@@ -442,7 +442,7 @@
     البريد الإلكتروني: <a href="mailto:embajada@dominicana.org.lb">embajada@dominicana.org.lb</a><br>
     الموقع الإلكتروني: <a href="https://www.dominicana.org.lb" target="_blank">الرابط</a><br>
   </div>
-  <h2>سفارات الاسيوية</h2>
+  <h2>الدول الاسيوية</h2>
   <div class="embassy">
     <strong>سفارة الصين</strong><br>
     العنوان: بيروت، منطقة اليرزة<br>
