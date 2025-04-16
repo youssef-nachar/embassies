@@ -66,7 +66,7 @@
       العنوان: شارع الدكتور محمد البزري، بير حسن<br>
       الهاتف: +961 1 825566<br>
       البريد الإلكتروني: <a href="mailto:ambassadorofegypt@hotmail.com">ambassadorofegypt@hotmail.com</a><br>
-      الموقع الإلكتروني: <a href="https://mfa.gov.eg" target="_blank">الرابط</a>
+      الموقع الإلكتروني: <a href="https://www.egyptembassy.org/location/lebanon/" target="_blank">الرابط</a>
     </div>
     <div class="embassy">
       <strong>سفارة المملكة الأردنية الهاشمية</strong><br>
@@ -80,7 +80,7 @@
       <strong>سفارة الجمهورية التونسية</strong><br>
       العنوان: شارع بلس، بيروت<br>
       الهاتف: +961 5 450130<br>
-      الموقع الإلكتروني: <a href="https://www.tunisiaembassy.org.lb" target="_blank">الرابط</a>
+      الموقع الإلكتروني: <a href="https://www.visahq.com/tunisia/embassy/lebanon/" target="_blank">الرابط</a>
     </div>
     <div class="embassy">
       <strong>سفارة دولة الإمارات العربية المتحدة</strong><br>
@@ -120,6 +120,8 @@
       الهاتف: +961 1 744 400<br>
       الفاكس: +961 1 744 401<br>
       البريد الإلكتروني: <a href="mailto:embassy@palembassy-lb.net">embassy@palembassy-lb.net</a><br>
+      العنوان:<a href="mailto:embassy@palembassy-lb.net"></a>
+
      
     </div>
     <div class="embassy">
