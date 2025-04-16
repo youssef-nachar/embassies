@@ -50,7 +50,10 @@
 <body>
 
   <h1>📘 دليل السفارات في بيروت، لبنان</h1>
-
+  <div style="text-align: center; margin-bottom: 20px;">
+    <input type="text" id="searchInput" placeholder="ابحث عن سفارة..." style="padding: 10px; width: 60%; font-size: 16px;">
+  </div>
+  
   <div class="category">
     <h2>الدول العربية</h2>
     <div class="embassy">
@@ -543,7 +546,26 @@
   البريد الإلكتروني: <a href="mailto:beirut@mfa.gov.mn">beirut@mfa.gov.mn</a><br>
   الموقع الإلكتروني: <a href="https://mfa.gov.mn/en/embassy-in-lebanon/" target="_blank">الرابط</a><br>
 </div>
+</div>
+    <script>
+  document.getElementById('searchInput').addEventListener('keyup', function () {
+    var filter = this.value.toLowerCase();
+    var embassies = document.querySelectorAll('.embassy');
 
+    embassies.forEach(function (embassy) {
+      var text = embassy.innerText.toLowerCase();
+      if (text.includes(filter)) {
+        embassy.style.display = 'block';
+      } else {
+        embassy.style.display = 'none';
+      }
+    });
+  });
+
+
+</script>
+</body>
+</html>
 
   <!-- يمكن إضافة المزيد من السفارات حسب الحاجة -->
   
