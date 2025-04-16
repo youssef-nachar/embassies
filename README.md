@@ -520,5 +520,30 @@
     الموقع الإلكتروني: <a href="https://www.mfa.gov.sg/overseas-mission/beirut" target="_blank">الرابط</a><br>
 </div>
 
+<div class="embassy">
+  <strong>سفارة كازاخستان</strong><br>
+  العنوان: بيروت، منطقة الرابية<br>
+  الهاتف: +961 4 521 111<br>
+  البريد الإلكتروني: <a href="mailto:beirut@mfa.kz">beirut@mfa.kz</a><br>
+  الموقع الإلكتروني: <a href="https://www.gov.kz/memleket/entities/mfa-beirut" target="_blank">الرابط</a><br>
+</div>
+
+<div class="embassy">
+  <strong>سفارة أوزبكستان</strong><br>
+  العنوان: بيروت، منطقة الحازمية<br>
+  الهاتف: +961 5 950 800<br>
+  البريد الإلكتروني: <a href="mailto:beirut@mfa.uz">beirut@mfa.uz</a><br>
+  الموقع الإلكتروني: <a href="https://mfa.uz/en/embassies/" target="_blank">الرابط</a><br>
+</div>
+
+<div class="embassy">
+  <strong>سفارة منغوليا</strong><br>
+  العنوان: بيروت، منطقة الحمرا<br>
+  الهاتف: +961 1 750 909<br>
+  البريد الإلكتروني: <a href="mailto:beirut@mfa.gov.mn">beirut@mfa.gov.mn</a><br>
+  الموقع الإلكتروني: <a href="https://mfa.gov.mn/en/embassy-in-lebanon/" target="_blank">الرابط</a><br>
+</div>
+
+
   <!-- يمكن إضافة المزيد من السفارات حسب الحاجة -->
   
