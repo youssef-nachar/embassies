@@ -597,6 +597,36 @@ a:hover {
 </div>
 
 <div class="embassy">
+    <strong>سفارة ارمينيا</strong><br>
+العنوان: 28 شارع الياسمين، منطقة المتن، جبل لبنان
+الهاتف: +961 4 188 860
+الفاكس: +961 4 029 952
+البريد الإلكتروني: armenia@dm.com.lb
+    الموقع الإلكتروني: <a href="lebanon.mfa.am" target="_blank">الرابط</a><br>
+</div>
+<div class="embassy">
+    <strong>سفارة اذربيجان</strong><br>
+العنوان: شارع 6، فيلا 353، عين عار، قضاء المتن، جبل لبنان
+الهاتف: +961 4 922 066
+الفاكس: +961 4 922 160
+البريد الإلكتروني: beirut@mission.mfa.gov.az
+    الموقع الإلكتروني: <a href="beirut.mfa.gov.az" target="_blank">الرابط</a><br>
+
+</div>
+
+<div class="embassy">
+    <strong>سفارة ايران</strong><br>
+  
+العنوان: شارع 6، فيلا 353، عين عار، قضاء المتن، جبل لبنان
+الهاتف: +961 4 922 066
+الفاكس: +961 4 922 160
+البريد الإلكتروني: beirut@mission.mfa.gov.az
+    الموقع الإلكتروني: <a href="https://www.visahq.com/iran/embassy/lebanon/" target="_blank">الرابط</a><br>
+
+</div>
+
+
+<div class="embassy">
     <strong>سفارة اليابان</strong><br>
     العنوان: بيروت، منطقة الحمراء<br>
     الهاتف: +961 1 430 225<br>
