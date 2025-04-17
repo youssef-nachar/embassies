@@ -261,7 +261,7 @@ a:hover {
 </div>
 
 
-    <h2>الدول الاروبية</h2>
+    <h2>الدول الاوروبية</h2>
   <div class="embassy">
     <strong>سفارة المملكة المتحدة</strong><br>
     العنوان: مجمع السفارات، قرب السراي الحكومي، شارع الجيش، زقاق البلاط، بيروت<br>
@@ -595,21 +595,29 @@ a:hover {
     البريد الإلكتروني: <a href="mailto:consular@indembassy.org.lb">consular@indembassy.org.lb</a><br>
     الموقع الإلكتروني: <a href="https://www.indianembassybeirut.gov.in/" target="_blank">الرابط</a><br>
 </div>
+<div class="embassy">
+    <strong>سفارة سيريلانكا</strong><br>
+العنوان: شارع دمشق الرئيسي، منطقة عرمون، قضاء بعبدا، بيروت، لبنان
+الهاتف: +961 5 769 585
+الفاكس: +961 5 956 033 / 4
+البريد الإلكتروني: slemb.beirut@mfa.gov.lk
+الموقع الإلكتروني: <a href="www.srilankaembassybeirut.com" target="_blank">الرابط</a><br>
+</div>
 
 <div class="embassy">
-    <strong>سفارة ارمينيا</strong><br>
-العنوان: 28 شارع الياسمين، منطقة المتن، جبل لبنان
-الهاتف: +961 4 188 860
-الفاكس: +961 4 029 952
-البريد الإلكتروني: armenia@dm.com.lb
+    <strong>سفارة ارمينيا</strong> <br>
+العنوان: 28 شارع الياسمين، منطقة المتن، جبل لبنان<br>
+الهاتف: +961 4 188 860<br>
+الفاكس: +961 4 029 952<br>
+البريد الإلكتروني: armenia@dm.com.lb<br>
     الموقع الإلكتروني: <a href="lebanon.mfa.am" target="_blank">الرابط</a><br>
 </div>
 <div class="embassy">
     <strong>سفارة اذربيجان</strong><br>
-العنوان: شارع 6، فيلا 353، عين عار، قضاء المتن، جبل لبنان
-الهاتف: +961 4 922 066
-الفاكس: +961 4 922 160
-البريد الإلكتروني: beirut@mission.mfa.gov.az
+العنوان: شارع 6، فيلا 353، عين عار، قضاء المتن، جبل لبنان<br>
+الهاتف: +961 4 922 066<br>
+الفاكس: +961 4 922 160<br>
+البريد الإلكتروني: beirut@mission.mfa.gov.az<br>
     الموقع الإلكتروني: <a href="beirut.mfa.gov.az" target="_blank">الرابط</a><br>
 
 </div>
@@ -617,10 +625,10 @@ a:hover {
 <div class="embassy">
     <strong>سفارة ايران</strong><br>
   
-العنوان: شارع 6، فيلا 353، عين عار، قضاء المتن، جبل لبنان
-الهاتف: +961 4 922 066
-الفاكس: +961 4 922 160
-البريد الإلكتروني: beirut@mission.mfa.gov.az
+العنوان: شارع 6، فيلا 353، عين عار، قضاء المتن، جبل لبنان<br>
+الهاتف: +961 4 922 066<br>
+الفاكس: +961 4 922 160<br>
+البريد الإلكتروني: beirut@mission.mfa.gov.az<br>
     الموقع الإلكتروني: <a href="https://www.visahq.com/iran/embassy/lebanon/" target="_blank">الرابط</a><br>
 
 </div>
@@ -705,7 +713,9 @@ a:hover {
   البريد الإلكتروني: <a href="mailto:beirut@mfa.uz">beirut@mfa.uz</a><br>
   الموقع الإلكتروني: <a href="https://embassybeirut.com/uzbek/" target="_blank">الرابط</a><br>
 </div>
+
 <h2>الدول الافريقية</h2>
+
 <div class="embassy">
       
   <strong>سفارة منغوليا</strong><br>
@@ -721,12 +731,44 @@ a:hover {
   البريد الإلكتروني: <a href="mailto:beirut@mfa.am">beirut@mfa.am</a><br>
   الموقع الإلكتروني: <a href="https://lebanon.mfa.am/en" target="_blank">الرابط</a><br>
 </div>
+
+<div class="embassy">
+  <strong>سفارة نيجيريا</strong><br>
+االعنوان: مبنى "العبير"، الطابق الأول، شارع عدنان الحكيم، منطقة بئر حسن، بيروت، لبنان
+الهاتف: +961 1 857 612 / 857 614
+الفاكس: +961 1 857 610
+البريد الإلكتروني: chancery@nigeriabeirut.org
+الموقع الإلكتروني: <a href="https://beirut.foreignaffairs.gov.ng/" target="_blank">الرابط</a><br>
+</div>
+
 <div class = "embassy">
   <strong>سفارة اثيوبيا</strong>
    العنوان: بيروت، منطقة الاشرفية <br>
   الهاتف: +961 1 213 303<br>
   الموقع الإلكتروني: <a href="https://www.visahq.com/ethiopia/embassy/lebanon/" target="_blank">الرابط</a><br>
 </div>
+
+<div class = "embassy">
+  <strong>سفارة تشاد</strong>
+العنوان: الطابق السابع، مركز زلقا 686، زلقا، المتن، بيروت، لبنان.
+الهاتف: +961 1 902 988.
+الفاكس: +961 1 902 988.
+البريد الإلكتروني: info@chadconsulate-lb.org.
+  الموقع الإلكتروني: <a href="https://www.visahq.com/chad/embassy/lebanon/" target="_blank">الرابط</a><br>
+
+
+</div>
+
+<div class = "embassy">
+  <strong>سفارة زامبيا</strong>
+العنوان: شارع 16A، بيروت، لبنان
+الهاتف: +961 920 45 56 60
+البريد الإلكتروني: information@zambassadeianconsulcom
+  الموقع الإلكتروني: <a href="https://www.visahq.com/zambia/embassy/lebanon/
+" target="_blank">الرابط</a><br>
+</div>
+
+
 <div class = "embassy">
   <strong>سفارة السنغال</strong>
    العنوان: بيروت، منطقة المصيطبه <br>
@@ -752,6 +794,17 @@ a:hover {
   الهاتف: +961 5 456 789<br>
   الموقع الإلكتروني: <a href="https://www.embassypages.com/centralafricanrepublic-consulate-beirut-lebanon" target="_blank">الرابط</a><br>
 </div>
+
+<div class="embassy">
+  <strong>سفارة الكاميرون </strong> <br>
+العنوان: الطابق التاسع، مركز "جما"، طريق دير عمار – جونية، قضاء المتن، جبل لبنان، لبنان. <br>
+الهاتف: +961 4 540 300 / 200<br>
+الفاكس: +961 4 540 400<br>
+البريد الإلكتروني: camerounlb@yahoo.fr<br>
+الموقع الإلكتروني: <a href="https://www.visahq.com/cameroon/embassy/lebanon/" target="_blank">الرابط</a><br>
+</div>
+
+
 
 <div class="embassy">
   <strong>سفارة سيراليون</strong><br>
