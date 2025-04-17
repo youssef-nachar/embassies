@@ -778,7 +778,7 @@ a:hover {
   الموقع الإلكتروني: <a href="https://embassyworld.org/ar/embassy-of-cote-divoire-in-beirut-lebanon.html" target="_blank">الرابط</a><br>
 
 </div>
-
+<div>
   <strong>سفارة كونجو الديمقراطية</strong><br>
 العنوان: الطابق السابع، مبنى تاباريس، شارع شارل مالك، قطاع مار نقولا، بيروت، لبنان
 الهاتف: +961 1 204 898
