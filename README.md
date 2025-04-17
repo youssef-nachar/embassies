@@ -4,47 +4,95 @@
   <meta charset="UTF-8">
   <title>دليل السفارات في بيروت</title>
   <style>
-    body {
-      font-family: 'Arial', sans-serif;
-      background-color: #f9f9f9;
-      margin: 20px;
-      line-height: 1.8;
-      direction: rtl;
-    }
-    h1, h2 {
-      text-align: center;
-      color: #2c3e50;
-    }
-    .category {
-      margin-top: 30px;
-      padding: 15px;
-      background-color: #e9ecef;
-      border-right: 5px solid #3498db;
-    }
-    .embassy {
-      background-color: #fff;
-      margin: 10px 0;
-      padding: 15px;
-      border: 1px solid #ddd;
-      border-radius: 5px;
-    }
-    .embassy strong {
-      color: #2c3e50;
-    }
-    #downloadBtn {
-      display: block;
-      margin: 30px auto;
-      padding: 10px 20px;
-      font-size: 16px;
-      background-color: #3498db;
-      color: #fff;
-      border: none;
-      border-radius: 5px;
-      cursor: pointer;
-    }
-    #downloadBtn:hover {
-      background-color: #2980b9;
-    }
+   body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f7f9fc;
+  margin: 20px;
+  direction: rtl;
+  line-height: 1.8;
+  color: #2c3e50;
+}
+
+h1 {
+  color: #1e3799;
+  font-size: 28px;
+  margin-bottom: 10px;
+  text-shadow: 1px 1px 2px #ccc;
+}
+
+h2 {
+  color: #0c2461;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 5px;
+  margin-top: 40px;
+}
+
+.category {
+  margin-top: 30px;
+  padding: 20px;
+  background-color: #ecf0f1;
+  border-right: 6px solid #2980b9;
+  border-radius: 8px;
+}
+
+.embassy {
+  background-color: #ffffff;
+  margin: 15px 0;
+  padding: 18px;
+  border: 1px solid #dcdde1;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  transition: transform 0.2s ease, background-color 0.3s;
+}
+
+.embassy:hover {
+  background-color: #f1f9ff;
+  transform: scale(1.01);
+}
+
+.embassy strong {
+  font-size: 18px;
+  color: #273c75;
+}
+
+a {
+  color: #2980b9;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#searchInput {
+  padding: 12px;
+  width: 60%;
+  max-width: 500px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+#downloadBtn {
+  display: block;
+  margin: 40px auto;
+  padding: 12px 24px;
+  font-size: 17px;
+  font-weight: bold;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s, transform 0.2s ease;
+}
+
+#downloadBtn:hover {
+  background-color: #1d6fa5;
+  transform: translateY(-2px);
+}
+
   </style>
 </head>
 <body>
