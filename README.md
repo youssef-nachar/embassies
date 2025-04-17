@@ -182,14 +182,17 @@
   <strong>سفارة الجمهورية الإسلامية الموريتانية</strong><br>
   العنوان: بيروت<br>
   الهاتف: +961 1 859851<br>
-  الموقع الإلكتروني: غير متوفر حالياً
+ 
+الموقغ الاكتروني : <a href="https://www.visahq.com/mauritania/embassy/lebanon/"</a>
+
 </div>
 
 <div class="embassy">
   <strong>سفارة جمهورية جيبوتي</strong><br>
   العنوان: بيروت<br>
   الهاتف: +961 1 859851<br>
-  الموقع الإلكتروني: غير متوفر حالياً
+  الموقع الإلكتروني:<a href ="https://www.visahq.com/djibouti/embassy/lebanon/</a>
+
 </div>
 
 <div class="embassy">
@@ -295,7 +298,7 @@
     العنوان: شارع المزرعة، بيروت<br>
     الهاتف: +961 1 802 001<br>
     الفاكس: +961 1 802 002<br>
-    الموقع الإلكتروني: <a href="https://www.embassyportugal-lb.org" target="_blank">الرابط</a><br>
+    الموقع الإلكتروني: <a href="https://www.visahq.com/portugal/embassy/lebanon/" target="_blank">الرابط</a><br>
   </div>
 
   <div class="embassy">
