@@ -428,7 +428,21 @@
     البريد الإلكتروني: <a href="mailto:embajadabeirut@mrecic.gov.ar">embajadabeirut@mrecic.gov.ar</a><br>
     الموقع الإلكتروني: <a href="https://www.argentinembassybeirut.org" target="_blank">الرابط</a><br>
   </div>
-  
+  <div class="embassy">
+  <strong>سفارة كندا</strong><br>
+  العنوان: الطابق الأول، مبنى كولرايت، شارع جال الديب 43، بيروت، لبنان<br>
+  الهاتف: +961 4 726 700<br>
+  البريد الإلكتروني: <a href="mailto:berut@international.gc.ca">berut@international.gc.ca</a><br>
+  الموقع الإلكتروني: <a href="https://www.international.gc.ca/country-pays/lebanon-liban/beirut-beyrouth.aspx?lang=eng" target="_blank">الرابط</a><br>
+</div>
+<div class="embassy">
+  <strong>سفارة الإكوادور</strong><br>
+  العنوان: بيروت، منطقة الحمراء<br>
+  الهاتف: +961 1 343 055<br>
+  البريد الإلكتروني: <a href="mailto:embajada@ecuador.org.lb">embajada@ecuador.org.lb</a><br>
+  الموقع الإلكتروني: <a href="https://www.ecuador.org.lb" target="_blank">الرابط</a><br>
+</div>
+
   <div class="embassy">
     <strong>سفارة البرازيل</strong><br>
     العنوان: بيروت، شارع الحمراء<br>
@@ -509,7 +523,13 @@
     البريد الإلكتروني: <a href="mailto:embajada@dominicana.org.lb">embajada@dominicana.org.lb</a><br>
     الموقع الإلكتروني: <a href="https://www.dominicana.org.lb" target="_blank">الرابط</a><br>
   </div>
-
+<div class="embassy">
+  <strong>سفارة الأوروغواي</strong><br>
+  العنوان: شارع بنك لبنان، مبنى ستيلا ماريس، الطابق السابع، جونيه، لبنان<br>
+  الهاتف: +961 9 636 529 / 30<br>
+  البريد الإلكتروني: <a href="mailto:uruliban@dm.com.lb">uruliban@dm.com.lb</a><br>
+  الموقع الإلكتروني: <a href="https://www.embassypages.com/uruguay-embassy-beirut-lebanon" target="_blank">الرابط</a><br>
+</div>
 
   
   <h2>الدول الاسيوية</h2>
@@ -615,6 +635,45 @@
   الهاتف: +961 1 750 909<br>
   البريد الإلكتروني: <a href="mailto:beirut@mfa.gov.mn">beirut@mfa.gov.mn</a><br>
   الموقع الإلكتروني: <a href="https://mfa.gov.mn/en/embassy-in-lebanon/" target="_blank">الرابط</a><br>
+</div>
+<div class="embassy">
+  <strong>سفارة أرمينيا</strong><br>
+  العنوان: بيروت، منطقة الحمراء<br>
+  الهاتف: +961 1 740 050<br>
+  البريد الإلكتروني: <a href="mailto:beirut@mfa.am">beirut@mfa.am</a><br>
+  الموقع الإلكتروني: <a href="https://lebanon.mfa.am/en" target="_blank">الرابط</a><br>
+</div>
+
+<div class="embassy">
+  <strong>سفارة أذربيجان</strong><br>
+  العنوان: بيروت، منطقة عين عار<br>
+  الهاتف: +961 4 402 222<br>
+  البريد الإلكتروني: <a href="mailto:beirut@mfa.gov.az">beirut@mfa.gov.az</a><br>
+  الموقع الإلكتروني: <a href="https://beirut.mfa.gov.az/en" target="_blank">الرابط</a><br>
+</div>
+
+<div class="embassy">
+  <strong>سفارة لاوس</strong><br>
+  العنوان: بيروت، منطقة الحازمية<br>
+  الهاتف: +961 5 951 666<br>
+  البريد الإلكتروني: <a href="mailto:info@laoembassybeirut.org">info@laoembassybeirut.org</a><br>
+  الموقع الإلكتروني: <a href="https://embassybeirut.com/laotian/" target="_blank">الرابط</a><br>
+</div>
+
+<div class="embassy">
+  <strong>قنصلية جورجيا</strong><br>
+  العنوان: بيروت، منطقة الجميزة، شارع لوفن 65<br>
+  الهاتف: +961 1 361 426<br>
+  البريد الإلكتروني: <a href="mailto:mloutfi@mofa.gov.ge">mloutfi@mofa.gov.ge</a><br>
+  الموقع الإلكتروني: <a href="https://www.embassypages.com/georgia-consulate-beirut-lebanon" target="_blank">الرابط</a><br>
+</div>
+
+<div class="embassy">
+  <strong>سفارة بروناي</strong><br>
+  العنوان: بيروت، لبنان<br>
+  الهاتف: غير متوفر<br>
+  البريد الإلكتروني: غير متوفر<br>
+  الموقع الإلكتروني: <a href="https://embassies.net/brunei-in-lebanon/beirut" target="_blank">الرابط</a><br>
 </div>
 </div>
     <script>
