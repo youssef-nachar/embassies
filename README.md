@@ -777,12 +777,12 @@ a:hover {
 البريد الإلكتروني: ambaciliban@gmail.com <br>
   الموقع الإلكتروني: <a href="https://embassyworld.org/ar/embassy-of-cote-divoire-in-beirut-lebanon.html" target="_blank">الرابط</a><br>
 
-</div class="embassy">
-<div>
+</div >
+<div class="embassy">
   <strong>سفارة كونجو الديمقراطية</strong><br>
-العنوان: الطابق السابع، مبنى تاباريس، شارع شارل مالك، قطاع مار نقولا، بيروت، لبنان
-الهاتف: +961 1 204 898
-الفاكس: +961 1 204 899
+العنوان: الطابق السابع، مبنى تاباريس، شارع شارل مالك، قطاع مار نقولا، بيروت، لبنان<br>
+الهاتف: +961 1 204 898<br>
+الفاكس: +961 1 204 899<br>
   الموقع الإلكتروني: <a href="https://www.visahq.com/congo-democratic-republic/embassy/lebanon/" target="_blank">الرابط</a><br>
 
 </div>
