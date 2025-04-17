@@ -200,7 +200,7 @@
   <strong>سفارة جمهورية جيبوتي</strong><br>
   العنوان: بيروت<br>
   الهاتف: +961 1 859851<br>
-  الموقع الإلكتروني:<"a href ="https://www.visahq.com/djibouti/embassy/lebanon/>الرابط</a>
+الموقغ الاكتروني : <a href="https://www.visahq.com/djibouti/embassy/lebanon/">الرابط</a>
 
 </div>
 
@@ -208,7 +208,8 @@
   <strong>سفارة جمهورية جزر القمر</strong><br>
   العنوان: بيروت<br>
   الهاتف: +961 1 859851<br>
-  الموقع الإلكتروني:<"a href ="[n](https://www.visahq.com/comoros/embassy/lebanon/)/>الرابط</a>
+  الموقغ الاكتروني : <a href="https://www.visahq.com/comoros/embassy/lebanon/">الرابط</a>
+
 </div>
 
 
