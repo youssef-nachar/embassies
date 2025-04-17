@@ -835,10 +835,10 @@ a:hover {
 </div>
 <div class="embassy">
   <strong>سفارة اريتريا</strong><br>
-  العنوان: Via Petrarca 93/9، بيروت، لبنان
-الهاتف: +961 21 486 001
-الفاكس: +961 21 486 009
-البريد الإلكتروني: information@eritreanconsullb.com
+  العنوان: Via Petrarca 93/9، بيروت، لبنان<br>
+الهاتف: +961 21 486 001<br>
+الفاكس: +961 21 486 009<br>
+البريد الإلكتروني: information@eritreanconsullb.com<br>
 الموقع الإلكتروني: <a href="https://www.embassypages.com/eritrea-consulate-beirut-lebanon" target="_blank">الرابط</a><br>
 
 
