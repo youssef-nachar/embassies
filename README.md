@@ -332,7 +332,7 @@
     العنوان: شارع دير محيصن، بيروت<br>
     الهاتف: +961 1 740 319<br>
     البريد الإلكتروني: <a href="mailto:beirut@urm.lt">beirut@urm.lt</a><br>
-    الموقع الإلكتروني: <a href="https://lebanon.mfa.lt" target="_blank">الرابط</a><br>
+    الموقع الإلكتروني: <a href="https://embassies.info/ConsulateofLithuaniainBeirutLebanon" target="_blank">الرابط</a><br>
   </div>
 
   <div class="embassy">
@@ -371,7 +371,7 @@
     العنوان: مبنى لازاريه، شارع الأمير بشير، وسط بيروت<br>
     الهاتف: +961 1 976001<br>
     البريد الإلكتروني: <a href="mailto:beirut@diplobel.fed.be">beirut@diplobel.fed.be</a><br>
-    الموقع الإلكتروني: <a href="https://lebanon.diplomatie.belgium.be/en/embassy-beirut/address-and-opening-hours" target="_blank">الرابط</a><br>
+    الموقع الإلكتروني: <a href="https://lebanon.diplomatie.belgium.be/en" target="_blank">الرابط</a><br>
   </div>
 
   <div class="embassy">
@@ -379,7 +379,7 @@
     العنوان: شارع الزيات، بئر حسن، بيروت<br>
     الهاتف: +961 1 830 171<br>
     البريد الإلكتروني: <a href="mailto:beirut@embassy.mzv.cz">beirut@embassy.mzv.cz</a><br>
-    الموقع الإلكتروني: <a href="https://www.mzv.cz/beirut" target="_blank">الرابط</a><br>
+    الموقع الإلكتروني: <a href="https://mzv.gov.cz/jnp/en/diplomatic_missions/czech_missions_abroad/lebanon_embassy_of_the_czech_republic_in.html" target="_blank">الرابط</a><br>
   </div>
 
   <div class="embassy">
@@ -439,7 +439,7 @@
     العنوان: بيروت، منطقة فردان<br>
     الهاتف: +961 1 753 042<br>
     البريد الإلكتروني: <a href="mailto:embajadabeirut@mrecic.gov.ar">embajadabeirut@mrecic.gov.ar</a><br>
-    الموقع الإلكتروني: <a href="https://www.argentinembassybeirut.org" target="_blank">الرابط</a><br>
+    الموقع الإلكتروني: <a href="https://elbno.cancilleria.gob.ar/en" target="_blank">الرابط</a><br>
   </div>
   <div class="embassy">
   <strong>سفارة كندا</strong><br>
@@ -453,7 +453,7 @@
   العنوان: بيروت، منطقة الحمراء<br>
   الهاتف: +961 1 343 055<br>
   البريد الإلكتروني: <a href="mailto:embajada@ecuador.org.lb">embajada@ecuador.org.lb</a><br>
-  الموقع الإلكتروني: <a href="https://www.ecuador.org.lb" target="_blank">الرابط</a><br>
+  الموقع الإلكتروني: <a href="https://embassies.net/ecuador-in-lebanon" target="_blank">الرابط</a><br>
 </div>
 
   <div class="embassy">
@@ -469,7 +469,7 @@
     العنوان: بيروت، منطقة الحمرا<br>
     الهاتف: +961 1 746 462<br>
     البريد الإلكتروني: <a href="mailto:embajadachile@libanon.org">embajadachile@libanon.org</a><br>
-    الموقع الإلكتروني: <a href="http://www.chilelibano.cl" target="_blank">الرابط</a><br>
+    الموقع الإلكتروني: <a href="https://embassies.net/chile-in-lebanon/beirut" target="_blank">الرابط</a><br>
   </div>
   
   <div class="embassy">
@@ -477,7 +477,7 @@
     العنوان: بيروت، منطقة بئر حسن<br>
     الهاتف: +961 1 841 801<br>
     البريد الإلكتروني: <a href="mailto:embajada@colombia.org.lb">embajada@colombia.org.lb</a><br>
-    الموقع الإلكتروني: <a href="https://lebanon.embajada.gov.co" target="_blank">الرابط</a><br>
+    الموقع الإلكتروني: <a href="https://beirut.consulado.gov.co/" target="_blank">الرابط</a><br>
   </div>
   
   <div class="embassy">
@@ -493,7 +493,7 @@
     العنوان: بيروت، منطقة الحازمية<br>
     الهاتف: +961 1 508 698<br>
     البريد الإلكتروني: <a href="mailto:embaperu@mtvlb.com">embaperu@mtvlb.com</a><br>
-    الموقع الإلكتروني: <a href="http://www.embaperulb.org" target="_blank">الرابط</a><br>
+    الموقع الإلكتروني: <a href="https://www.visahq.com/peru/embassy/lebanon/" target="_blank">الرابط</a><br>
   </div>
   
   <div class="embassy">
@@ -501,7 +501,7 @@
     العنوان: بيروت، منطقة الجميزة<br>
     الهاتف: +961 1 426 100<br>
     البريد الإلكتروني: <a href="mailto:embavenezolanalb@gmail.com">embavenezolanalb@gmail.com</a><br>
-    الموقع الإلكتروني: <a href="https://www.embavenezolanalb.com" target="_blank">الرابط</a><br>
+    الموقع الإلكتروني: <a href="https://embassies.net/venezuela-in-lebanon/beirut" target="_blank">الرابط</a><br>
   </div>
   
 
@@ -510,23 +510,16 @@
     العنوان: بيروت، منطقة الحمرا<br>
     الهاتف: +961 1 747 540<br>
     البريد الإلكتروني: <a href="mailto:embajada@paraguay.org.lb">embajada@paraguay.org.lb</a><br>
-    الموقع الإلكتروني: <a href="https://www.paraguay.org.lb" target="_blank">الرابط</a><br>
+    الموقع الإلكتروني: <a href="https://embassies.net/paraguay-in-lebanon/beirut" target="_blank">الرابط</a><br>
   </div>
   
-  <div class="embassy">
-    <strong>سفارة الإكوادور</strong><br>
-    العنوان: بيروت، منطقة الحمراء<br>
-    الهاتف: +961 1 343 055<br>
-    البريد الإلكتروني: <a href="mailto:embajada@ecuador.org.lb">embajada@ecuador.org.lb</a><br>
-    الموقع الإلكتروني: <a href="https://www.ecuador.org.lb" target="_blank">الرابط</a><br>
-  </div>
   
   <div class="embassy">
     <strong>سفارة بوليفيا</strong><br>
     العنوان: بيروت، منطقة الجميزة<br>
     الهاتف: +961 1 421 990<br>
     البريد الإلكتروني: <a href="mailto:embajada@bolivia.org.lb">embajada@bolivia.org.lb</a><br>
-    الموقع الإلكتروني: <a href="http://www.bolivia.org.lb" target="_blank">الرابط</a><br>
+    الموقع الإلكتروني: <a href="https://www.embassypages.com/bolivia-consulate-beirut-lebanon" target="_blank">الرابط</a><br>
   </div>
   
   <div class="embassy">
@@ -534,15 +527,8 @@
     العنوان: بيروت، منطقة الحمراء<br>
     الهاتف: +961 1 738 730<br>
     البريد الإلكتروني: <a href="mailto:embajada@dominicana.org.lb">embajada@dominicana.org.lb</a><br>
-    الموقع الإلكتروني: <a href="https://www.dominicana.org.lb" target="_blank">الرابط</a><br>
+    الموقع الإلكتروني: <a href="https://www.embassy-worldwide.com/embassy/honorary-consulate-of-the-dominican-republic-in-beirut-lebanon/" target="_blank">الرابط</a><br>
   </div>
-<div class="embassy">
-  <strong>سفارة الأوروغواي</strong><br>
-  العنوان: شارع بنك لبنان، مبنى ستيلا ماريس، الطابق السابع، جونيه، لبنان<br>
-  الهاتف: +961 9 636 529 / 30<br>
-  البريد الإلكتروني: <a href="mailto:uruliban@dm.com.lb">uruliban@dm.com.lb</a><br>
-  الموقع الإلكتروني: <a href="https://www.embassypages.com/uruguay-embassy-beirut-lebanon" target="_blank">الرابط</a><br>
-</div>
 
   
   <h2>الدول الاسيوية</h2>
@@ -559,7 +545,7 @@
     العنوان: بيروت، منطقة الحمرا<br>
     الهاتف: +961 1 350 100<br>
     البريد الإلكتروني: <a href="mailto:consular@indembassy.org.lb">consular@indembassy.org.lb</a><br>
-    الموقع الإلكتروني: <a href="http://www.indembassybeirut.gov.in" target="_blank">الرابط</a><br>
+    الموقع الإلكتروني: <a href="https://www.indianembassybeirut.gov.in/" target="_blank">الرابط</a><br>
 </div>
 
 <div class="embassy">
@@ -591,7 +577,7 @@
     العنوان: بيروت، منطقة عين المريسة<br>
     الهاتف: +961 1 362 580<br>
     البريد الإلكتروني: <a href="mailto:indonesianembassybeirut@indonesia-lebanon.org">indonesianembassybeirut@indonesia-lebanon.org</a><br>
-    الموقع الإلكتروني: <a href="http://www.indonesia-lebanon.org" target="_blank">الرابط</a><br>
+    الموقع الإلكتروني: <a href="https://www.kemlu.go.id/beirut" target="_blank">الرابط</a><br>
 </div>
 
 <div class="embassy">
@@ -599,7 +585,7 @@
     العنوان: بيروت، منطقة عوكر<br>
     الهاتف: +961 4 417 364<br>
     البريد الإلكتروني: <a href="mailto:pakistanembassybeirut@mofa.gov.pk">pakistanembassybeirut@mofa.gov.pk</a><br>
-    الموقع الإلكتروني: <a href="http://www.pakistanembassybeirut.org" target="_blank">الرابط</a><br>
+    الموقع الإلكتروني: <a href="https://mofa.gov.pk/beirut-lebanon" target="_blank">الرابط</a><br>
 </div>
 
 <div class="embassy">
@@ -607,7 +593,7 @@
     العنوان: بيروت، منطقة الحازمية<br>
     الهاتف: +961 5 951 666<br>
     البريد الإلكتروني: <a href="mailto:info@bdembassybeirut.org">info@bdembassybeirut.org</a><br>
-    الموقع الإلكتروني: <a href="http://www.bdembassybeirut.org" target="_blank">الرابط</a><br>
+    الموقع الإلكتروني: <a href="https://beirut.mofa.gov.bd/" target="_blank">الرابط</a><br>
 </div>
 
 <div class="embassy">
@@ -639,7 +625,7 @@
   العنوان: بيروت، منطقة الحازمية<br>
   الهاتف: +961 5 950 800<br>
   البريد الإلكتروني: <a href="mailto:beirut@mfa.uz">beirut@mfa.uz</a><br>
-  الموقع الإلكتروني: <a href="https://mfa.uz/en/embassies/" target="_blank">الرابط</a><br>
+  الموقع الإلكتروني: <a href="https://embassybeirut.com/uzbek/" target="_blank">الرابط</a><br>
 </div>
 
 <div class="embassy">
