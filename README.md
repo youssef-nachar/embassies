@@ -675,9 +675,9 @@ a:hover {
   البريد الإلكتروني: <a href="mailto:beirut@mfa.uz">beirut@mfa.uz</a><br>
   الموقع الإلكتروني: <a href="https://embassybeirut.com/uzbek/" target="_blank">الرابط</a><br>
 </div>
-
+<h2>الدول الافريقية</h2>
 <div class="embassy">
-      <h2>الدول الافريقية</h2>
+      
   <strong>سفارة منغوليا</strong><br>
   العنوان: بيروت، منطقة الحمرا<br>
   الهاتف: +961 1 750 909<br>
