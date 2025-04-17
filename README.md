@@ -597,10 +597,10 @@ a:hover {
 </div>
 <div class="embassy">
     <strong>سفارة سيريلانكا</strong><br>
-العنوان: شارع دمشق الرئيسي، منطقة عرمون، قضاء بعبدا، بيروت، لبنان
-الهاتف: +961 5 769 585
-الفاكس: +961 5 956 033 / 4
-البريد الإلكتروني: slemb.beirut@mfa.gov.lk
+العنوان: شارع دمشق الرئيسي، منطقة عرمون، قضاء بعبدا، بيروت، لبنان<br>
+الهاتف: +961 5 769 585<br>
+الفاكس: +961 5 956 033 / 4<br>
+البريد الإلكتروني: slemb.beirut@mfa.gov.lk<br>
 الموقع الإلكتروني: <a href="www.srilankaembassybeirut.com" target="_blank">الرابط</a><br>
 </div>
 
@@ -734,10 +734,10 @@ a:hover {
 
 <div class="embassy">
   <strong>سفارة نيجيريا</strong><br>
-االعنوان: مبنى "العبير"، الطابق الأول، شارع عدنان الحكيم، منطقة بئر حسن، بيروت، لبنان
-الهاتف: +961 1 857 612 / 857 614
-الفاكس: +961 1 857 610
-البريد الإلكتروني: chancery@nigeriabeirut.org
+االعنوان: مبنى "العبير"، الطابق الأول، شارع عدنان الحكيم، منطقة بئر حسن، بيروت، لبنان<br>
+الهاتف: +961 1 857 612 / 857 614<br>
+الفاكس: +961 1 857 610<br>
+البريد الإلكتروني: chancery@nigeriabeirut.org<br>
 الموقع الإلكتروني: <a href="https://beirut.foreignaffairs.gov.ng/" target="_blank">الرابط</a><br>
 </div>
 
@@ -750,10 +750,10 @@ a:hover {
 
 <div class = "embassy">
   <strong>سفارة تشاد</strong>
-العنوان: الطابق السابع، مركز زلقا 686، زلقا، المتن، بيروت، لبنان.
-الهاتف: +961 1 902 988.
-الفاكس: +961 1 902 988.
-البريد الإلكتروني: info@chadconsulate-lb.org.
+العنوان: الطابق السابع، مركز زلقا 686، زلقا، المتن، بيروت، لبنان.<br>
+الهاتف: +961 1 902 988.<br>
+الفاكس: +961 1 902 988.<br>
+البريد الإلكتروني: info@chadconsulate-lb.org.<br>
   الموقع الإلكتروني: <a href="https://www.visahq.com/chad/embassy/lebanon/" target="_blank">الرابط</a><br>
 
 
@@ -761,9 +761,9 @@ a:hover {
 
 <div class = "embassy">
   <strong>سفارة زامبيا</strong>
-العنوان: شارع 16A، بيروت، لبنان
-الهاتف: +961 920 45 56 60
-البريد الإلكتروني: information@zambassadeianconsulcom
+العنوان: شارع 16A، بيروت، لبنان<br>
+الهاتف: +961 920 45 56 60<br>
+البريد الإلكتروني: information@zambassadeianconsulcom<br>
   الموقع الإلكتروني: <a href="https://www.visahq.com/zambia/embassy/lebanon/
 " target="_blank">الرابط</a><br>
 </div>
