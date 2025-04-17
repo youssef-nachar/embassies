@@ -109,7 +109,7 @@
       الهاتف: +961 1 744 400<br>
       الفاكس: +961 1 744 401<br>
       البريد الإلكتروني: <a href="mailto:embassy@palembassy-lb.net">embassy@palembassy-lb.net</a><br>
-      الموقع الإلكتروني: <a href="https://www.palembassy-lb.net" target="_blank">الرابط</a>
+      الموقع الإلكتروني: <a href="https://mofa.gov.iq/beirut/?page_id=6125&lang=en" target="_blank">الرابط</a>
     </div>
     <div class="embassy">
       <strong>سفارة دولة قطر</strong><br>
@@ -117,7 +117,7 @@
       الهاتف: +961 1 744 400<br>
       الفاكس: +961 1 744 401<br>
       البريد الإلكتروني: <a href="mailto:embassy@palembassy-lb.net">embassy@palembassy-lb.net</a><br>
-      الموقع الإلكتروني: <a href="https://www.palembassy-lb.net" target="_blank">الرابط</a>
+      الموقع الإلكتروني: <a href="https://beirut.embassy.qa/en/the-embassy/contact" target="_blank">الرابط</a>
     </div>
     <div class="embassy">
       <strong>سفارة دولة الكويت</strong><br>
@@ -125,7 +125,7 @@
       الهاتف: +961 1 744 400<br>
       الفاكس: +961 1 744 401<br>
       البريد الإلكتروني: <a href="mailto:embassy@palembassy-lb.net">embassy@palembassy-lb.net</a><br>
-      العنوان:<a href="mailto:embassy@palembassy-lb.net"></a>
+      الموقع الاكتروني:<a href="mailto:embassy@palembassy-lb.net">الرابط</a>
 
      
     </div>
@@ -135,6 +135,7 @@
       الهاتف: +961 1 859000<br>
       الفاكس: +961 1 859002<br>
       البريد الإلكتروني: <a href="mailto:algeria@cyberia.net.lb">algeria@cyberia.net.lb</a><br>
+  الموقع الاكتروني :<a href ="https://embalgeria-lb.net/"> الرابط</a>
     </div>
     <div class="embassy">
       <strong>سفارة الجمهورية اليمنية</strong><br>
@@ -142,6 +143,7 @@
       الهاتف: +961 1 859994<br>
       الفاكس: +961 1 855108<br>
       البريد الإلكتروني: <a href="mailto:yemenembassy.lb@gmail.com">yemenembassy.lb@gmail.com</a><br>
+    الموقع الاكتروني :<a href ="https://www.embassy-worldwide.com/embassy/embassy-of-yemen-in-beirut-lebanon/"> الرابط </a>
     </div>
     <div class="embassy">
       <strong>سفارة جمهورية السودان</strong><br>
@@ -149,18 +151,25 @@
       الهاتف: +961 1 353270<br>
       الفاكس: +961 1 353276<br>
       البريد الإلكتروني: <a href="mailto:sudanembassy@cyberia.net.lb">sudanembassy@cyberia.net.lb</a><br>
+          الموقع الإلكتروني: <a href="https://www.visahq.com/sudan/embassy/lebanon/" target="_blank">الرابط</a>
+
     </div>
     <div class="embassy">
       <strong>سفارة سلطنة عمان</strong><br>
       العنوان: الروشة، شارع عبد العزيز، بيروت<br>
       الهاتف: +961 1 809750<br>
       البريد الإلكتروني: <a href="mailto:beirut@mofa.gov.om">beirut@mofa.gov.om</a><br>
+              الموقع الإلكتروني: <a href="https://www.fm.gov.om/beirut/" target="_blank">الرابط</a>
+
     </div>
+   
     <div class="embassy">
-      <strong>سفارة ليبيا</strong><br>
+    <strong>سفارة ليبيا</strong><br>
       العنوان: الحمرا، بيروت<br>
       الهاتف: +961 1 350 786<br>
       البريد الإلكتروني: <a href="mailto:libyaembassy.lb@gmail.com">libyaembassy.lb@gmail.com</a><br>
+                الموقع الإلكتروني: <a href="https://embassies.net/libya-in-lebanon/beirut" target="_blank">الرابط</a>
+
     </div>
 
 <div class="embassy">
@@ -175,7 +184,7 @@
   <strong>سفارة المملكة المغربية</strong><br>
   العنوان: بئر حسن، شارع الأمم المتحدة، بيروت<br>
   الهاتف: +961 1 859851<br>
-  الموقع الإلكتروني: <a href="https://www.moroccanembassy.lb" target="_blank">الرابط</a>
+  الموقع الإلكتروني: <a href="https://www.smartphone-id.com/ar/%D8%A7%D9%84%D8%B3%D9%81%D8%A7%D8%B1%D8%A7%D8%AA/%D9%84%D9%80-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8/%D9%81%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86/%D8%B3%D9%81%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D9%85%D8%BA%D8%B1%D8%A8-%D9%81%D9%8A-%D9%84%D8%A8%D9%86%D8%A7%D9%86-%D8%A8%D9%8A%D8%B1%D9%88%D8%AA/" target="_blank">الرابط</a>
 </div>
 
 <div class="embassy">
@@ -183,7 +192,7 @@
   العنوان: بيروت<br>
   الهاتف: +961 1 859851<br>
  
-الموقغ الاكتروني : <a href="https://www.visahq.com/mauritania/embassy/lebanon/"</a>
+الموقغ الاكتروني : <a href="https://www.visahq.com/mauritania/embassy/lebanon/">الرابط</a>
 
 </div>
 
@@ -191,7 +200,7 @@
   <strong>سفارة جمهورية جيبوتي</strong><br>
   العنوان: بيروت<br>
   الهاتف: +961 1 859851<br>
-  الموقع الإلكتروني:<a href ="https://www.visahq.com/djibouti/embassy/lebanon/</a>
+  الموقع الإلكتروني:<"a href ="https://www.visahq.com/djibouti/embassy/lebanon/>الرابط</a>
 
 </div>
 
@@ -199,7 +208,7 @@
   <strong>سفارة جمهورية جزر القمر</strong><br>
   العنوان: بيروت<br>
   الهاتف: +961 1 859851<br>
-  الموقع الإلكتروني: غير متوفر حالياً
+  الموقع الإلكتروني:<"a href ="[n](https://www.visahq.com/comoros/embassy/lebanon/)/>الرابط</a>
 </div>
 
 
