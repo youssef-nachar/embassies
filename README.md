@@ -85,6 +85,8 @@
       الهاتف: +961 5 450130<br>
       الموقع الإلكتروني: <a href="https://www.visahq.com/tunisia/embassy/lebanon/" target="_blank">الرابط</a>
     </div>
+
+    
     <div class="embassy">
       <strong>سفارة دولة الإمارات العربية المتحدة</strong><br>
       العنوان: الجناح- شارع الشيخ زايد بن سلطان آل نهيان، بيروت<br>
@@ -160,6 +162,43 @@
       الهاتف: +961 1 350 786<br>
       البريد الإلكتروني: <a href="mailto:libyaembassy.lb@gmail.com">libyaembassy.lb@gmail.com</a><br>
     </div>
+
+<div class="embassy">
+  <strong>سفارة الجمهورية العربية السورية</strong><br>
+  العنوان: بعبدا، اليرزة، قرب وزارة الدفاع، بيروت<br>
+  الهاتف: +961 5 922581 / 922582 / 922583 / 922584<br>
+  الفاكس: +961 5 922589<br>
+  الموقع الإلكتروني: <a href="https://mofaex.gov.sy/beirut-embassy/" target="_blank">الرابط</a>
+</div>
+
+<div class="embassy">
+  <strong>سفارة المملكة المغربية</strong><br>
+  العنوان: بئر حسن، شارع الأمم المتحدة، بيروت<br>
+  الهاتف: +961 1 859851<br>
+  الموقع الإلكتروني: <a href="https://www.moroccanembassy.lb" target="_blank">الرابط</a>
+</div>
+
+<div class="embassy">
+  <strong>سفارة الجمهورية الإسلامية الموريتانية</strong><br>
+  العنوان: بيروت<br>
+  الهاتف: +961 1 859851<br>
+  الموقع الإلكتروني: غير متوفر حالياً
+</div>
+
+<div class="embassy">
+  <strong>سفارة جمهورية جيبوتي</strong><br>
+  العنوان: بيروت<br>
+  الهاتف: +961 1 859851<br>
+  الموقع الإلكتروني: غير متوفر حالياً
+</div>
+
+<div class="embassy">
+  <strong>سفارة جمهورية جزر القمر</strong><br>
+  العنوان: بيروت<br>
+  الهاتف: +961 1 859851<br>
+  الموقع الإلكتروني: غير متوفر حالياً
+</div>
+
 
     <h2>الدول الاروبية</h2>
   <div class="embassy">
@@ -345,6 +384,34 @@
     البريد الإلكتروني: <a href="mailto:beirut-ob@bmeia.gv.at">beirut-ob@bmeia.gv.at</a><br>
     الموقع الإلكتروني: <a href="https://www.bmeia.gv.at/en/austrian-embassy-beirut/" target="_blank">الرابط</a><br>
   </div>
+
+  <div class="embassy">
+  <strong>سفارة جمهورية المجر</strong><br>
+  العنوان: بيروت، منطقة الصنايع، شارع جوستينيان، مبنى BAC، الطابق التاسع<br>
+  الهاتف: +961 1 741 260 / +961 1 730 083<br>
+  البريد الإلكتروني: <a href="mailto:mission.bej@mfa.gov.hu">mission.bej@mfa.gov.hu</a><br>
+  الموقع الإلكتروني: <a href="https://bejrut.mfa.gov.hu/eng" target="_blank">الرابط</a><br>
+</div>
+
+<div class="embassy">
+  <strong>سفارة جمهورية رومانيا</strong><br>
+  العنوان: طريق القصر الجمهوري، بعبدا، شارع 68، رقم 30، القطاع 3، بيروت<br>
+  الهاتف: +961 76 775 503<br>
+  البريد الإلكتروني: <a href="mailto:beirut@mae.ro">beirut@mae.ro</a><br>
+  الموقع الإلكتروني: <a href="http://beirut.mae.ro" target="_blank">الرابط</a><br>
+</div>
+
+<div class="embassy">
+  <strong>سفارة جمهورية بلغاريا</strong><br>
+  العنوان: الحازمية، مار تقلا، القطاع 6، شارع 44، بيروت<br>
+  الهاتف: +961 5 452 883 / +961 5 453 658<br>
+  البريد الإلكتروني: <a href="mailto:embassy.beirut@mfa.bg">embassy.beirut@mfa.bg</a><br>
+  الموقع الإلكتروني: <a href="https://www.mfa.bg/en/embassies/lebanon/" target="_blank">الرابط</a><br>
+</div>
+
+
+
+  
   <h2>الدول الامريكية</h2>
   <div class="embassy">
     <strong>سفارة الولايات المتحدة الأمريكية</strong><br>
@@ -442,6 +509,9 @@
     البريد الإلكتروني: <a href="mailto:embajada@dominicana.org.lb">embajada@dominicana.org.lb</a><br>
     الموقع الإلكتروني: <a href="https://www.dominicana.org.lb" target="_blank">الرابط</a><br>
   </div>
+
+
+  
   <h2>الدول الاسيوية</h2>
   <div class="embassy">
     <strong>سفارة الصين</strong><br>
