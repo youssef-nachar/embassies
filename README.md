@@ -770,14 +770,14 @@ a:hover {
 
 
 <div class="embassy">
-  <strong>سفارة ساحل العاج</strong><br>
-العنوان: جناح، شارع زاهية سلمان، بيروت، لبنان
-الهاتف: +961 1 850 481
-الفاكس: +961 1 850 484 / 3
-البريد الإلكتروني: ambaciliban@gmail.com
+  <strong>سفارة ساحل العاج</strong> <br>
+العنوان: جناح، شارع زاهية سلمان، بيروت، لبنان <br>
+الهاتف: +961 1 850 481 <br>
+الفاكس: +961 1 850 484 / 3 <br>
+البريد الإلكتروني: ambaciliban@gmail.com <br>
   الموقع الإلكتروني: <a href="https://embassyworld.org/ar/embassy-of-cote-divoire-in-beirut-lebanon.html" target="_blank">الرابط</a><br>
 
-</div>
+</div class="embassy">
 <div>
   <strong>سفارة كونجو الديمقراطية</strong><br>
 العنوان: الطابق السابع، مبنى تاباريس، شارع شارل مالك، قطاع مار نقولا، بيروت، لبنان
