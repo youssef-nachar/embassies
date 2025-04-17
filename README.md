@@ -581,7 +581,7 @@ a:hover {
   
   <h2>الدول الاسيوية</h2>
   <div class="embassy">
-    <strong>سفارة الصين</strong><br>
+    <strong>سفارة الصين(not active in lebanon يمكن التعامل معها من الاردن)</strong><br>
     العنوان: بيروت، منطقة اليرزة<br>
     الهاتف: +961 1 567 139<br>
     البريد الإلكتروني: <a href="mailto:chinaemb_lb@mfa.gov.cn">chinaemb_lb@mfa.gov.cn</a><br>
@@ -690,7 +690,18 @@ a:hover {
   البريد الإلكتروني: <a href="mailto:beirut@mfa.am">beirut@mfa.am</a><br>
   الموقع الإلكتروني: <a href="https://lebanon.mfa.am/en" target="_blank">الرابط</a><br>
 </div>
-
+<div class = "embassy">
+  <strong>سفارة اثيوبيا</strong>
+   العنوان: بيروت، منطقة الاشرفية <br>
+  الهاتف: +961 1 213 303<br>
+  الموقع الإلكتروني: <a href="https://www.visahq.com/ethiopia/embassy/lebanon/" target="_blank">الرابط</a><br>
+</div>
+<div class = "embassy">
+  <strong>سفارة السنغال</strong>
+   العنوان: بيروت، منطقة المصيطبه <br>
+  الهاتف: +961 1 306 412<br>
+  الموقع الإلكتروني: <a href="https://www.visahq.com/senegal/embassy/lebanon/" target="_blank">الرابط</a><br>
+</div>
 <div class="embassy">
   <strong>سفارة أذربيجان</strong><br>
   العنوان: بيروت، منطقة عين عار<br>
@@ -698,6 +709,38 @@ a:hover {
   البريد الإلكتروني: <a href="mailto:beirut@mfa.gov.az">beirut@mfa.gov.az</a><br>
   الموقع الإلكتروني: <a href="https://beirut.mfa.gov.az/en" target="_blank">الرابط</a><br>
 </div>
+<div class="embassy">
+  <strong>سفارة غانا</strong><br>
+  العنوان: بيروت، منطقة الحازمية<br>
+  الهاتف: +961 5 456 789<br>
+  الموقع الإلكتروني: <a href="https://ghanaconsulate-lebanon.com/" target="_blank">الرابط</a><br>
+</div>
+<div class="embassy">
+  <strong>سفارة افريقيا الوسطى</strong><br>
+  العنوان: بيروت، منطقة الحازمية<br>
+  الهاتف: +961 5 456 789<br>
+  الموقع الإلكتروني: <a href="https://www.embassypages.com/centralafricanrepublic-consulate-beirut-lebanon" target="_blank">الرابط</a><br>
+</div>
+
+<div class="embassy">
+  <strong>سفارة سيراليون</strong><br>
+  العنوان: بيروت،  <br>
+  الهاتف: +961 1 856 133<br>
+  الموقع الإلكتروني: <a href="https://www.visahq.com/sierra-leone/embassy/lebanon/" target="_blank">الرابط</a><br>
+</div>
+
+<div class="embassy">
+  <strong>سفارة مالي</strong><br>
+  العنوان: بيروت،  <br>
+  الموقع الإلكتروني: <a href="https://www.visahq.com/mali/embassy/lebanon/" target="_blank">الرابط</a><br>
+</div>
+
+<div class="embassy">
+  <strong>سفارة انغولا</strong><br>
+  العنوان: بيروت،  <br>
+  الموقع الإلكتروني: <a href="https://embassybeirut.com/angolan/" target="_blank">الرابط</a><br>
+</div>
+
 
 <div class="embassy">
   <strong>سفارة لاوس</strong><br>
@@ -705,6 +748,16 @@ a:hover {
   الهاتف: +961 5 951 666<br>
   البريد الإلكتروني: <a href="mailto:info@laoembassybeirut.org">info@laoembassybeirut.org</a><br>
   الموقع الإلكتروني: <a href="https://embassybeirut.com/laotian/" target="_blank">الرابط</a><br>
+</div>
+<div class="embassy">
+  <strong>سفارة اريتريا</strong><br>
+  العنوان: Via Petrarca 93/9، بيروت، لبنان
+الهاتف: +961 21 486 001
+الفاكس: +961 21 486 009
+البريد الإلكتروني: information@eritreanconsullb.com
+الموقع الإلكتروني: <a href="https://www.embassypages.com/eritrea-consulate-beirut-lebanon" target="_blank">الرابط</a><br>
+
+
 </div>
 
 <div class="embassy">
@@ -714,6 +767,26 @@ a:hover {
   البريد الإلكتروني: <a href="mailto:mloutfi@mofa.gov.ge">mloutfi@mofa.gov.ge</a><br>
   الموقع الإلكتروني: <a href="https://www.embassypages.com/georgia-consulate-beirut-lebanon" target="_blank">الرابط</a><br>
 </div>
+
+
+<div class="embassy">
+  <strong>سفارة ساحل العاج</strong><br>
+العنوان: جناح، شارع زاهية سلمان، بيروت، لبنان
+الهاتف: +961 1 850 481
+الفاكس: +961 1 850 484 / 3
+البريد الإلكتروني: ambaciliban@gmail.com
+  الموقع الإلكتروني: <a href="https://embassyworld.org/ar/embassy-of-cote-divoire-in-beirut-lebanon.html" target="_blank">الرابط</a><br>
+
+</div>
+
+  <strong>سفارة كونجو الديمقراطية</strong><br>
+العنوان: الطابق السابع، مبنى تاباريس، شارع شارل مالك، قطاع مار نقولا، بيروت، لبنان
+الهاتف: +961 1 204 898
+الفاكس: +961 1 204 899
+  الموقع الإلكتروني: <a href="https://www.visahq.com/congo-democratic-republic/embassy/lebanon/" target="_blank">الرابط</a><br>
+
+</div>
+
 
 <div class="embassy">
   <strong>سفارة بروناي</strong><br>
