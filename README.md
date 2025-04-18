@@ -834,7 +834,7 @@ a:hover {
 
 
 <div class="embassy">
-  <strong>سفارة سيراليون</strong><br>
+  <strong>قنصلية سيراليون</strong><br>
   العنوان: بيروت،  <br>
   الهاتف: +961 1 856 133<br>
   الموقع الإلكتروني: <a href="https://www.visahq.com/sierra-leone/embassy/lebanon/" target="_blank">الرابط</a><br>
@@ -890,7 +890,7 @@ a:hover {
 
 </div >
 <div class="embassy">
-  <strong>سفارة كونجو الديمقراطية</strong><br>
+  <strong>قنصلية كونجو الديمقراطية</strong><br>
 العنوان: الطابق السابع، مبنى تاباريس، شارع شارل مالك، قطاع مار نقولا، بيروت، لبنان<br>
 الهاتف: +961 1 204 898<br>
 الفاكس: +961 1 204 899<br>
