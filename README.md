@@ -173,7 +173,7 @@ a:hover {
       الهاتف: +961 1 744 400<br>
       الفاكس: +961 1 744 401<br>
       البريد الإلكتروني: <a href="mailto:embassy@palembassy-lb.net">embassy@palembassy-lb.net</a><br>
-      الموقع الاكتروني:<a href="mailto:embassy@palembassy-lb.net">الرابط</a>
+      الموقع الاكتروني:<a href="https://embassies.net/kuwait-in-lebanon/beirut">الرابط</a>
 
      
     </div>
