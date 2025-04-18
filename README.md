@@ -794,6 +794,33 @@ a:hover {
   الهاتف: +961 5 456 789<br>
   الموقع الإلكتروني: <a href="https://www.embassypages.com/centralafricanrepublic-consulate-beirut-lebanon" target="_blank">الرابط</a><br>
 </div>
+<div class="embassy">
+  <strong>قنصلية سيشيل</strong> <br>
+العنوان: بيروت، طريق المطار، شارع المروج، مبنى صقر فخري، الطابق الأول<br>
+الهاتف: +961 76 448 332 / +961 3 448 332<br>
+البريد الإلكتروني: abduljalil@seychellesamblb.com<br>
+  الموقع الإلكتروني: <a href="https://www.visahq.com/seychelles/embassy/lebanon/" target="_blank">الرابط</a><br>
+</div>
+
+<div class="embassy">
+  <strong>سفارة اندونيسيا</strong> <br>
+العنوان: شارع قصر الرئاسة، شارع 68، القطاع 3، رقم 3237، ص.ب. 4007، بعبدا، لبنان<br>
+الهاتف: +961 5 924 676 / +961 5 924 682 / +961 5 924 676<br>
+واتساب: +961 70 817 310<br>
+الفاكس: +961 5 924 678<br>
+البريد الإلكتروني: beirut.kbri@kemlu.go.id<br>
+الموقع الإلكتروني: <a href="https://www.visahq.com/indonesia/embassy/lebanon/" target="_blank">الرابط</a><br>
+</div>
+
+<div class="embassy">
+  <strong>قنصلية جزر المالديف</strong> <br>
+العنوان: الطابق 8، بناية سارولا، شارع الحمرا، بيروت، لبنان<br>
+الهاتف: +961 1 746212<br>
+الفاكس: +961 1 744047<br>
+البريد الإلكتروني: consul@maldives.gov.lb<br>
+الموقع الإلكتروني: <a href="https://www.arab-states.com/consulia/767/Maldives-Beirut-Lebanon" target="_blank">الرابط</a><br>
+</div>
+
 
 <div class="embassy">
   <strong>سفارة الكاميرون </strong> <br>
@@ -879,6 +906,26 @@ a:hover {
   البريد الإلكتروني: غير متوفر<br>
   الموقع الإلكتروني: <a href="https://embassies.net/brunei-in-lebanon/beirut" target="_blank">الرابط</a><br>
 </div>
+</div>
+
+<h2> الدول التي لا تمتلك سفارات في لبنان:</h2>
+<div class="embassy">
+<strong>غينيا:</strong> تمثلها سفارة غينيا في القاهرة، مصر :<br>
+  
+<strong>مدغشقر: </strong>تمثلها سفارة مدغشقر في الرياض، السعودية :<br>
+
+<strong> الصومال: </strong>تمثلها سفارة الصومال في دمشق، سوريا :<br>
+
+<strong>جمهورية الكونغو الديمقراطية: </strong>تمثلها قنصلية في بيروت :<br>
+
+<strong>غينيا الاستوائية:</strong> تمثلها سفارة غينيا الاستوائية في الدوحة، قطر :<br>
+
+<strong>سيراليون:</strong> تمثلها قنصلية فخرية في بيروت:<br>
+
+<strong>غابون: </strong>تمثلها سفارة غابون في بيروت :<br>
+
+<strong>غينيا: </strong>تمثلها سفارة غينيا في القاهرة، مصر :​<br>
+
 </div>
     <script>
   document.getElementById('searchInput').addEventListener('keyup', function () {
